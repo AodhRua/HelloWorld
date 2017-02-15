@@ -1,2 +1,2 @@
 # HelloWorld
-Intro Projecgt for 
+Intro Project for git
